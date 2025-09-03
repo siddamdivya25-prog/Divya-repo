@@ -1,0 +1,12 @@
+import subprocess
+
+def create_git_branch(branch_name):
+    try:
+        # Run the git branch command
+        result = subprocess.run(['git', 'branch', branch_name], check=True, text=True, capture_output=True)
+        print(f"✅ Branch '{branch_name}' created successfully.")
+    except subprocess.CalledProcessError as e:
+        print(f"❌ Failed to create branch: {e.stderr}")
+
+# Example usage
+create_git_branch("sweety")
