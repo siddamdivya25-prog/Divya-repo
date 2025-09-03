@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/ec2-user/run'
+let g:netrw_dirhist_7='/home/ec2-user/folder1'
+let g:netrw_dirhist_6='/home/ec2-user/2'
+let g:netrw_dirhist_5='/home/ec2-user/run'
+let g:netrw_dirhist_4='/home/ec2-user/folder1/folder1'
+let g:netrw_dirhist_3='/home/ec2-user/f5'
+let g:netrw_dirhist_2='/home/ec2-user/f4'
+let g:netrw_dirhist_1='/home/ec2-user/f3'

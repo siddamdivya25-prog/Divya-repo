@@ -1,0 +1,20 @@
+hey papa, ela unnav maa, tinava, ls - List directory contents. 
+● cd - Change directory. 
+● pwd - Print working directory. 
+● cp - Copy files or directories. 
+● mv - Move or rename files or directories. 
+● rm - Remove files or directories. 
+● touch - Create a new empty file. 
+● mkdir - Create a new directory. 
+● rmdir - Remove an empty directory. 
+● cat - Concatenate and display file contents. 
+● head - Display the first few lines of a file. 
+● tail - Display the last few lines of a file. 
+● chmod - Change file permissions. 
+● chown - Change file ownership. 
+● find - Search for files in a directory hierarchy. 
+● locate - Find files by name. 
+● grep - Search text using patterns. 
+● diff - Compare two files line by line. 
+● tar - Archive files. 
+● zip/unzip - Compress and extract files.
